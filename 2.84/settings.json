@@ -44,7 +44,7 @@
     "rpc-bind-address": "0.0.0.0", 
     "rpc-enabled": true, 
     "rpc-password": "everjy.com", 
-    "rpc-port": 9091, 
+    "rpc-port": 8000, 
     "rpc-url": "/transmission/", 
     "rpc-username": "everjy.com", 
     "rpc-whitelist": "127.0.0.1", 
